@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Chandana-2024/DSAques/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/Chandana-2024/DSAques/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/Chandana-2024/DSAques/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Chandana-2024/DSAques/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Chandana-2024/DSAques/tree/main/0075-sort-colors/) | Medium |
@@ -78,5 +79,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Chandana-2024/DSAques/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Chandana-2024/DSAques/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
