@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Chandana-2024/DSAques/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Chandana-2024/DSAques/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Chandana-2024/DSAques/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0704-binary-search](https://github.com/Chandana-2024/DSAques/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chandana-2024/DSAques/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandana-2024/DSAques/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
@@ -74,4 +75,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Chandana-2024/DSAques/tree/main/0048-rotate-image/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Chandana-2024/DSAques/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
