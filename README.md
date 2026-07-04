@@ -91,5 +91,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Chandana-2024/DSAques/tree/main/0206-reverse-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Chandana-2024/DSAques/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Chandana-2024/DSAques/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
