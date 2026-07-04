@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Chandana-2024/DSAques/tree/main/0075-sort-colors/) | Medium |
+| [0148-sort-list](https://github.com/Chandana-2024/DSAques/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/Chandana-2024/DSAques/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Chandana-2024/DSAques/tree/main/0283-move-zeroes/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Chandana-2024/DSAques/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
@@ -53,11 +54,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Chandana-2024/DSAques/tree/main/0075-sort-colors/) | Medium |
+| [0148-sort-list](https://github.com/Chandana-2024/DSAques/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Chandana-2024/DSAques/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Chandana-2024/DSAques/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/Chandana-2024/DSAques/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Chandana-2024/DSAques/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -91,10 +94,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Chandana-2024/DSAques/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Chandana-2024/DSAques/tree/main/0206-reverse-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Chandana-2024/DSAques/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Chandana-2024/DSAques/tree/main/0206-reverse-linked-list/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Chandana-2024/DSAques/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
