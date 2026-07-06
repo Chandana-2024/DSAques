@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0061-rotate-list](https://github.com/Chandana-2024/DSAques/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Chandana-2024/DSAques/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Chandana-2024/DSAques/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chandana-2024/DSAques/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Chandana-2024/DSAques/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0061-rotate-list](https://github.com/Chandana-2024/DSAques/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/Chandana-2024/DSAques/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chandana-2024/DSAques/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Chandana-2024/DSAques/tree/main/0206-reverse-linked-list/) | Easy |
