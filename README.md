@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Chandana-2024/DSAques/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/Chandana-2024/DSAques/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chandana-2024/DSAques/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Chandana-2024/DSAques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandana-2024/DSAques/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Chandana-2024/DSAques/tree/main/0075-sort-colors/) | Medium |
 | [0148-sort-list](https://github.com/Chandana-2024/DSAques/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Chandana-2024/DSAques/tree/main/0169-majority-element/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Chandana-2024/DSAques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Chandana-2024/DSAques/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Chandana-2024/DSAques/tree/main/0704-binary-search/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Chandana-2024/DSAques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,4 +126,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandana-2024/DSAques/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Chandana-2024/DSAques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Chandana-2024/DSAques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/Chandana-2024/DSAques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 <!---LeetCode Topics End-->
