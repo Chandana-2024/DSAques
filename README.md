@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Chandana-2024/DSAques/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Chandana-2024/DSAques/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Chandana-2024/DSAques/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Chandana-2024/DSAques/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/Chandana-2024/DSAques/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Chandana-2024/DSAques/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Chandana-2024/DSAques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/Chandana-2024/DSAques/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chandana-2024/DSAques/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Chandana-2024/DSAques/tree/main/0169-majority-element/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Chandana-2024/DSAques/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,5 +139,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Chandana-2024/DSAques/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Chandana-2024/DSAques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 <!---LeetCode Topics End-->
