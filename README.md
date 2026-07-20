@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/Chandana-2024/DSAques/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Chandana-2024/DSAques/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Chandana-2024/DSAques/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/Chandana-2024/DSAques/tree/main/0344-reverse-string/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Chandana-2024/DSAques/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Chandana-2024/DSAques/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Math
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandana-2024/DSAques/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0344-reverse-string](https://github.com/Chandana-2024/DSAques/tree/main/0344-reverse-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
