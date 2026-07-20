@@ -47,11 +47,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Chandana-2024/DSAques/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Chandana-2024/DSAques/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Chandana-2024/DSAques/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/Chandana-2024/DSAques/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Chandana-2024/DSAques/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Chandana-2024/DSAques/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/Chandana-2024/DSAques/tree/main/0231-power-of-two/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/Chandana-2024/DSAques/tree/main/0050-powx-n/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Chandana-2024/DSAques/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Chandana-2024/DSAques/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/Chandana-2024/DSAques/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/Chandana-2024/DSAques/tree/main/0509-fibonacci-number/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
