@@ -1,16 +1,13 @@
 class Solution:
     def reverseString(self, s: List[str]) -> None:
         
-        def slove(left , right):
-            if left >= right :
-                return  True 
+        def slove(l,r):
+            if l >= r:
+                return True
             
-            s[left] , s[right] = s[right] , s[left]
-            slove(left+1,right-1)
+            s[l],s[r] = s[r],s[l]
 
-        n = len(s) -1
-        slove(0,n)
-        
-
-
+            return slove(l+1,r-1)
+        n=len(s)
+        slove(0,n-1)
         
