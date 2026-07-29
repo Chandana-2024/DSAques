@@ -11,14 +11,14 @@ class Solution:
             if node is None or node.next is None:
                 return node
 
-            first  = node
-            second = node.next
+            first = node
+            secound = node.next
 
-            remmaining = ll(second.next)
+            rem = ll(secound.next)
 
-            second.next  = first
-            first.next  = remmaining
+            secound.next = first
+            first.next = rem
 
-            return second
-
+            return secound
+            
         return ll(head)
