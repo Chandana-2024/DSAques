@@ -8,14 +8,16 @@ class Solution:
 
         def ll(node):
 
-            if node is None:
-                return None
+            if  node  is None:
+                return  None
             
             node.next = ll(node.next)
 
             if node.val == val:
                 return node.next
-            
+
             return node
 
-        return ll(head)
+        return ll(head)  
+
+        
