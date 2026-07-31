@@ -13,7 +13,6 @@ class Solution:
 
         targetSum -= root.val
 
-        # Leaf node
         if root.left is None and root.right is None:
             return targetSum == 0
 
