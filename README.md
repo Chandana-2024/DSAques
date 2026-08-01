@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Chandana-2024/DSAques/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Chandana-2024/DSAques/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Chandana-2024/DSAques/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Chandana-2024/DSAques/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Chandana-2024/DSAques/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Chandana-2024/DSAques/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -204,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Chandana-2024/DSAques/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
