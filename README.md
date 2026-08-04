@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Chandana-2024/DSAques/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/Chandana-2024/DSAques/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Chandana-2024/DSAques/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Chandana-2024/DSAques/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Chandana-2024/DSAques/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chandana-2024/DSAques/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Chandana-2024/DSAques/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Chandana-2024/DSAques/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Chandana-2024/DSAques/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0079-word-search](https://github.com/Chandana-2024/DSAques/tree/main/0079-word-search/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandana-2024/DSAques/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chandana-2024/DSAques/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0079-word-search](https://github.com/Chandana-2024/DSAques/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Chandana-2024/DSAques/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/Chandana-2024/DSAques/tree/main/0344-reverse-string/) | Easy |
 ## Sliding Window
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Chandana-2024/DSAques/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Chandana-2024/DSAques/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Chandana-2024/DSAques/tree/main/0101-symmetric-tree/) | Easy |
@@ -240,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Chandana-2024/DSAques/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Chandana-2024/DSAques/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Chandana-2024/DSAques/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Chandana-2024/DSAques/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Chandana-2024/DSAques/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Chandana-2024/DSAques/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Chandana-2024/DSAques/tree/main/0216-combination-sum-iii/) | Medium |
