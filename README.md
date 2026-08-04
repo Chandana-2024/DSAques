@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Chandana-2024/DSAques/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/Chandana-2024/DSAques/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Chandana-2024/DSAques/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Chandana-2024/DSAques/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Chandana-2024/DSAques/tree/main/0048-rotate-image/) | Medium |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Chandana-2024/DSAques/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Chandana-2024/DSAques/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Chandana-2024/DSAques/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Chandana-2024/DSAques/tree/main/0078-subsets/) | Medium |
