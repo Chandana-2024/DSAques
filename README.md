@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Chandana-2024/DSAques/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Chandana-2024/DSAques/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/Chandana-2024/DSAques/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/Chandana-2024/DSAques/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Chandana-2024/DSAques/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Chandana-2024/DSAques/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Chandana-2024/DSAques/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/Chandana-2024/DSAques/tree/main/0344-reverse-string/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -239,5 +241,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Chandana-2024/DSAques/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Chandana-2024/DSAques/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Chandana-2024/DSAques/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Chandana-2024/DSAques/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Chandana-2024/DSAques/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
