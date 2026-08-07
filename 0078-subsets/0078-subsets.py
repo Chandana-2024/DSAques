@@ -1,22 +1,18 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-
+        
         ans = []
         path = []
 
-        def dfs(index):
-
-            if index == len(nums):
+        def sets(i):
+            if i == len(nums):
                 ans.append(path[:])
                 return 
-            
-            path.append(nums[index])
-            dfs(index + 1)
-
+            path.append(nums[i])
+            sets(i+1)
             path.pop()
-
-            dfs(index +1)
+            sets(i+1)
         
-        dfs(0)
+        sets(0)
         return ans
         
