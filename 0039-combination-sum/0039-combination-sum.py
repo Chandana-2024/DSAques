@@ -1,24 +1,22 @@
 class Solution:
-    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+    def combinationSum(self, nums: List[int], target: int) -> List[List[int]]:
         ans = []
         path = []
-        n = len(candidates)
-        def dfs(index,total):
 
+        def cnt(i,total):
             if total == target:
                 ans.append(path[:])
                 return 
             
-            if total > target or index == n:
+            if total > target or i == len(nums):
                 return 
-            
-            path.append(candidates[index])
 
-            dfs(index,total+candidates[index])
+            path.append(nums[i])
 
+            cnt(i,total+nums[i])
             path.pop()
-
-            dfs(index+1,total)
-
-        dfs(0,0)
+            cnt(i+1,total)
+        
+        cnt(0,0)
         return ans
+        
