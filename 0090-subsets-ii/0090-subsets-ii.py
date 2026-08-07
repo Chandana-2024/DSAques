@@ -4,18 +4,15 @@ class Solution:
         ans = []
         path = []
 
-        def dfs(st):
+        def sets(st):
             ans.append(path[:])
-                    
-            for i  in range(st,len(nums)):
-                if i > st and nums[i] == nums[i -1]:
+
+            for i in range(st,len(nums)):
+                if i > st and nums[i] == nums[i-1]:
                     continue
-
+                
                 path.append(nums[i])
-                dfs(i+1)
+                sets(i+1)
                 path.pop()
-
-        
-        dfs(0)
+        sets(0)
         return ans
-    
