@@ -10,11 +10,14 @@ class Solution:
         ans = []
 
         def dfs(node):
-            if not node:
+            if node is None:
                 return 
+            
             ans.append(node.val)
             dfs(node.left)
             dfs(node.right)
-
+        
         dfs(root)
-        return ans        
+        return ans
+
+           
