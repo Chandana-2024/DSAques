@@ -253,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Chandana-2024/DSAques/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Chandana-2024/DSAques/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Chandana-2024/DSAques/tree/main/0216-combination-sum-iii/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
