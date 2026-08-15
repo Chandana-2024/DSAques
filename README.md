@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Chandana-2024/DSAques/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Chandana-2024/DSAques/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0226-invert-binary-tree/) | Easy |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Chandana-2024/DSAques/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Chandana-2024/DSAques/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0226-invert-binary-tree/) | Easy |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Chandana-2024/DSAques/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Chandana-2024/DSAques/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Chandana-2024/DSAques/tree/main/0226-invert-binary-tree/) | Easy |
@@ -251,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Chandana-2024/DSAques/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Chandana-2024/DSAques/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Chandana-2024/DSAques/tree/main/0090-subsets-ii/) | Medium |
+| [0113-path-sum-ii](https://github.com/Chandana-2024/DSAques/tree/main/0113-path-sum-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Chandana-2024/DSAques/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Chandana-2024/DSAques/tree/main/0216-combination-sum-iii/) | Medium |
 ## DP on Trees
