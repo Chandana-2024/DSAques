@@ -1,36 +1,34 @@
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> List[List[int]]:
-        
-        if root is None:
-            return []
-        
+
         ans = []
-        
-        stack = [(root, targetSum, [root.val])]
-        
-        while stack:
-            node, current_sum, path = stack.pop()
-            
+        path = []
+
+        def dfs(node, remaining):
+
+            if node is None:
+                return
+
+            # Choose
+            path.append(node.val)
+            remaining -= node.val
+
             # Check leaf
-            if not node.left and not node.right:
-                if current_sum == node.val:
-                    ans.append(path)
-                continue
-            
-            # Right child
-            if node.right:
-                stack.append((
-                    node.right,
-                    current_sum - node.val,
-                    path + [node.right.val]
-                ))
-            
-            # Left child
-            if node.left:
-                stack.append((
-                    node.left,
-                    current_sum - node.val,
-                    path + [node.left.val]
-                ))
-        
+            if node.left is None and node.right is None:
+                if remaining == 0:
+                    ans.append(path[:])
+
+                # Undo
+                path.pop()
+                return
+
+            # Explore
+            dfs(node.left, remaining)
+            dfs(node.right, remaining)
+
+            # Undo
+            path.pop()
+
+        dfs(root, targetSum)
+
         return ans
