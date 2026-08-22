@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Chandana-2024/DSAques/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Chandana-2024/DSAques/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/Chandana-2024/DSAques/tree/main/0344-reverse-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Chandana-2024/DSAques/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Chandana-2024/DSAques/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,4 +320,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Chandana-2024/DSAques/tree/main/0020-valid-parentheses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Chandana-2024/DSAques/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
