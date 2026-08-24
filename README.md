@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/Chandana-2024/DSAques/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/Chandana-2024/DSAques/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Chandana-2024/DSAques/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chandana-2024/DSAques/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Chandana-2024/DSAques/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Chandana-2024/DSAques/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chandana-2024/DSAques/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Chandana-2024/DSAques/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
