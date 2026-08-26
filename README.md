@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Chandana-2024/DSAques/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Chandana-2024/DSAques/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Chandana-2024/DSAques/tree/main/0844-backspace-string-compare/) | Easy |
+| [0901-online-stock-span](https://github.com/Chandana-2024/DSAques/tree/main/0901-online-stock-span/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Chandana-2024/DSAques/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chandana-2024/DSAques/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Chandana-2024/DSAques/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -341,10 +342,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Chandana-2024/DSAques/tree/main/0155-min-stack/) | Medium |
+| [0901-online-stock-span](https://github.com/Chandana-2024/DSAques/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Chandana-2024/DSAques/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Chandana-2024/DSAques/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Chandana-2024/DSAques/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Chandana-2024/DSAques/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Chandana-2024/DSAques/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
