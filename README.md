@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Chandana-2024/DSAques/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Chandana-2024/DSAques/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/Chandana-2024/DSAques/tree/main/0344-reverse-string/) | Easy |
+| [0402-remove-k-digits](https://github.com/Chandana-2024/DSAques/tree/main/0402-remove-k-digits/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Chandana-2024/DSAques/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Chandana-2024/DSAques/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chandana-2024/DSAques/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/Chandana-2024/DSAques/tree/main/0402-remove-k-digits/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Chandana-2024/DSAques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/Chandana-2024/DSAques/tree/main/0155-min-stack/) | Medium |
+| [0402-remove-k-digits](https://github.com/Chandana-2024/DSAques/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Chandana-2024/DSAques/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Chandana-2024/DSAques/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Chandana-2024/DSAques/tree/main/0739-daily-temperatures/) | Medium |
@@ -354,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Chandana-2024/DSAques/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chandana-2024/DSAques/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0402-remove-k-digits](https://github.com/Chandana-2024/DSAques/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Chandana-2024/DSAques/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Chandana-2024/DSAques/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Chandana-2024/DSAques/tree/main/0739-daily-temperatures/) | Medium |
