@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Chandana-2024/DSAques/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Chandana-2024/DSAques/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Chandana-2024/DSAques/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0088-merge-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/Chandana-2024/DSAques/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Chandana-2024/DSAques/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Chandana-2024/DSAques/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Chandana-2024/DSAques/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Chandana-2024/DSAques/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Chandana-2024/DSAques/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chandana-2024/DSAques/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Chandana-2024/DSAques/tree/main/0189-rotate-array/) | Medium |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Chandana-2024/DSAques/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Chandana-2024/DSAques/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/Chandana-2024/DSAques/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Chandana-2024/DSAques/tree/main/0169-majority-element/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Chandana-2024/DSAques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
