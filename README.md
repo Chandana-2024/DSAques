@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Chandana-2024/DSAques/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Chandana-2024/DSAques/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandana-2024/DSAques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Chandana-2024/DSAques/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Chandana-2024/DSAques/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandana-2024/DSAques/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Chandana-2024/DSAques/tree/main/0125-valid-palindrome/) | Easy |
 | [0148-sort-list](https://github.com/Chandana-2024/DSAques/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chandana-2024/DSAques/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandana-2024/DSAques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Chandana-2024/DSAques/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Chandana-2024/DSAques/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Chandana-2024/DSAques/tree/main/0344-reverse-string/) | Easy |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Chandana-2024/DSAques/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Chandana-2024/DSAques/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandana-2024/DSAques/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Chandana-2024/DSAques/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/Chandana-2024/DSAques/tree/main/0704-binary-search/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Chandana-2024/DSAques/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
