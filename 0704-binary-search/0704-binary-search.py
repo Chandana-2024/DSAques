@@ -1,15 +1,17 @@
 class Solution:
-    def search(self, nums: List[int], target: int) -> int:
+    def search(self, nums: list[int], target: int) -> int:
         n = len(nums)
         st = 0 
-        end =n-1
+        end = n-1
+
         while st <= end:
-            mid = (st+end)//2
-            if  nums[mid] == target:
+            mid = (st+end) // 2
+            if nums[mid] == target:
                 return mid
-            elif  nums[mid] < target:
-                st = mid + 1
+            elif nums[mid] < target:
+                st = mid+1
             else:
                 end = mid - 1
         
         return -1
+        
